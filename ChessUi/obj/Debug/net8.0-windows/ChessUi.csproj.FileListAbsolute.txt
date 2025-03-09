@@ -22,3 +22,28 @@ C:\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\refin
 C:\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.pdb
 C:\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.genruntimeconfig.cache
 C:\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ref\ChessUi.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\bin\Debug\net8.0-windows\ChessUi.exe
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\bin\Debug\net8.0-windows\ChessUi.deps.json
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\bin\Debug\net8.0-windows\ChessUi.runtimeconfig.json
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\bin\Debug\net8.0-windows\ChessUi.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\bin\Debug\net8.0-windows\ChessUi.pdb
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\bin\Debug\net8.0-windows\ChessLogic.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\bin\Debug\net8.0-windows\ChessLogic.pdb
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.csproj.AssemblyReference.cache
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\App.g.cs
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi_MarkupCompile.cache
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi_MarkupCompile.lref
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\MainWindow.baml
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.g.resources
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.AssemblyInfoInputs.cache
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.AssemblyInfo.cs
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.csproj.CoreCompileInputs.cache
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.sourcelink.json
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.csproj.Up2Date
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\refint\ChessUi.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.pdb
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ChessUi.genruntimeconfig.cache
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessUi\obj\Debug\net8.0-windows\ref\ChessUi.dll
