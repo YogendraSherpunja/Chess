@@ -1,0 +1,22 @@
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\2nd Semester\C# Programming\Code Examples\ChessGame\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
